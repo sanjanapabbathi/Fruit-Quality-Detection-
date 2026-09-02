@@ -34,6 +34,13 @@ Example results:
 - Fresh Apple
 - Slightly Spoiled
 - Rotten Apple
+### Fresh Apple Output
+
+![Fresh Apple Output](fresh_output.jpg)
+
+### Rotten Apple Output
+
+![Rotten Apple Output](rotten_output.jpg)
 
 ## ▶️ How to Run
 
